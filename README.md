@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Batmanswife
 - 👀 I’m interested in Web Design and Front End Development 
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ... twitter @Scorpiihoeee_
 
 <!---
