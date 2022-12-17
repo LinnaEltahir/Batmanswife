@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Batmanswife
+- 👋 Hi, I’m @LinnaEltahir
 - 👀 I’m interested in Web Design and Front End Development 
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on future projects
