@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LinnaEltahir
-- 👀 I’m interested in Web Design and Front End Development 
+- 👀 I’m interested in UI/UX Design and Software Development
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ... LinkedIn Linna Eltahir
